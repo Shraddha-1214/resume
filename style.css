@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+    margin: 0;
+    padding: 20px;
+}
+
+.resume {
+    background: white;
+    max-width: 800px;
+    margin: auto;
+    padding: 30px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+    border-radius: 10px;
+}
+
+header {
+    text-align: center;
+    border-bottom: 2px solid #007acc;
+    padding-bottom: 10px;
+}
+
+h1 {
+    margin: 0;
+    color: #007acc;
+}
+
+h2 {
+    color: #333;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
